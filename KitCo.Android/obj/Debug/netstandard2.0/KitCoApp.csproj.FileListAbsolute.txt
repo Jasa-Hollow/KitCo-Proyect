@@ -1,0 +1,61 @@
+C:\KitCoApp\KitCoApp\bin\Debug\netstandard2.0\KitCoApp.deps.json
+C:\KitCoApp\KitCoApp\bin\Debug\netstandard2.0\KitCoApp.dll
+C:\KitCoApp\KitCoApp\bin\Debug\netstandard2.0\ref\KitCoApp.dll
+C:\KitCoApp\KitCoApp\bin\Debug\netstandard2.0\KitCoApp.pdb
+C:\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.csproj.AssemblyReference.cache
+C:\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.AssemblyInfoInputs.cache
+C:\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.AssemblyInfo.cs
+C:\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.csproj.CoreCompileInputs.cache
+C:\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.dll
+C:\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\ref\KitCoApp.dll
+C:\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.pdb
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\bin\Debug\netstandard2.0\KitCoApp.deps.json
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\bin\Debug\netstandard2.0\KitCoApp.dll
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\bin\Debug\netstandard2.0\ref\KitCoApp.dll
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\bin\Debug\netstandard2.0\KitCoApp.pdb
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.csproj.AssemblyReference.cache
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.AssemblyInfoInputs.cache
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.AssemblyInfo.cs
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.csproj.CoreCompileInputs.cache
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.dll
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\ref\KitCoApp.dll
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\Nuevas Tecnologías de Programación\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.pdb
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\bin\Debug\netstandard2.0\KitCoApp.deps.json
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\bin\Debug\netstandard2.0\KitCoApp.dll
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\bin\Debug\netstandard2.0\ref\KitCoApp.dll
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\bin\Debug\netstandard2.0\KitCoApp.pdb
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.csproj.AssemblyReference.cache
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.AssemblyInfoInputs.cache
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.AssemblyInfo.cs
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.csproj.CoreCompileInputs.cache
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.dll
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\ref\KitCoApp.dll
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\KitCoApp.pdb
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\Views\User.xaml.g.cs
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\Views\RecipesPage.xaml.g.cs
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\Views\IndexPage.xaml.g.cs
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\Views\recipePage.xaml.g.cs
+C:\Users\Joel Sandoval\Documents\ULS mi carpeta uwu\NTP\KitCoApp\KitCoApp\obj\Debug\netstandard2.0\Views\AboutUsPage.xaml.g.cs
