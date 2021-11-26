@@ -9,13 +9,13 @@ would keep its resources in the "Resources" directory of the application:
 
 Resources/
     drawable-hdpi/
-        icon.png
+        icon_feed.png
 
     drawable-ldpi/
-        icon.png
+        icon_sol.png
 
     drawable-mdpi/
-        icon.png
+        icon_y.png
 
     layout/
         main.xml
